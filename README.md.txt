@@ -1,0 +1,1 @@
+This is clone for the netflix homepage created using html and css only.
